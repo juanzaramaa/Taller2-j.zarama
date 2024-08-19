@@ -13,6 +13,3 @@ plt.title('Histograma de tiempos de servicio')
 plt.xlabel('Tiempos de servicio')
 plt.ylabel('Frecuencia')
 plt.show()
-
-print(bins)
-print(count)
